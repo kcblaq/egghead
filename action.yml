@@ -2,5 +2,5 @@ name: "we right here"
 description:"Declaring boldly"
 author: "kcblaq"
 runs:
-using:"node"
-main: "index.js"
+  using:"node12"
+  main: "index.js"
