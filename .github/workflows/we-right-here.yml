@@ -1,0 +1,19 @@
+# This is a basic workflow to help you get started with Actions
+
+name: We right here
+
+
+on: [push, pull_request]
+
+jobs:
+
+  we-right-here:
+
+    runs-on: ubuntu-latest
+
+
+    steps:
+
+      - uses: actions/checkout@v2
+
+     - uses: ./
