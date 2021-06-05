@@ -1,1 +1,1 @@
-console.log("We right here")
+console.log("We right here");

@@ -1,6 +1,6 @@
 name: "we right here"
-description:"Declaring boldly"
-author: "kcblaq"
+description: "Declaring boldly"
+author: "kcblaq <kcblack22@gmail.com>"
 runs:
-  using:"node12"
+  using: "node12"
   main: "index.js"
