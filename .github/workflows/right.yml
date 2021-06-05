@@ -1,0 +1,20 @@
+name: we right here
+
+
+on: [push, pull_request]
+
+
+jobs:
+
+  right:
+
+    runs-on: ubuntu-latest
+
+
+    steps:
+
+      - uses: actions/checkout@v2
+      - uses: ./
+
+
+ 
