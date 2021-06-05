@@ -1,0 +1,8 @@
+{
+  "name": "egghead",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kcblaq/egghead.git",
+  "author": "kcblaq <ugwu.kelechi@decagon.dev>",
+  "license": "MIT"
+}
